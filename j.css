@@ -1,0 +1,87 @@
+*{
+padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+  margin: 1px;
+  border: 1px;
+ /* background-color: rgb(174, 0, 255); */
+/* background-image: url("EIWeZn.jpg"); */
+
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+#n1{
+  width: 100%;
+  height: 200px;
+  margin: 1px;
+  border: 1px;
+  background-image: url("venkys.jpeg");
+  background-repeat: no-repeat;
+
+}
+
+
+.n2{
+  width: 100%;
+  height: 100px;
+  margin: 1px;
+  border: 1px;
+
+}
+
+
+
+h1{
+  text-align: center;
+  color: brown;
+}
+
+h2{
+  text-align: center;
+  color: brown;
+}
+
+h4{
+  text-align: center;
+  color: brown;
+}
+
+.button{
+display: flex;
+justify-content: center;
+
+}
+
+.n3{
+  width: 100%;
+  height: 100vh;
+  margin: 1px;
+  border: 1px;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#products{
+margin: 5px;
+padding: 5px;
+
+border:5px solid #ff3300;
+background: #f5f118;	
+  width: 180px;
+  height: 255px;
+}
+
+#allProduct{
+	
+	display:flex;
+	 flex-wrap: wrap;
+	
+}
