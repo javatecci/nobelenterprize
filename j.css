@@ -10,7 +10,7 @@ body{
   margin: 1px;
   border: 1px;
  /* background-color: rgb(174, 0, 255); */
-/* background-image: url("EIWeZn.jpg"); */
+ background-image: url("EIWeZn.jpg"); 
 
   display: flex;
   flex-wrap: wrap;
@@ -66,6 +66,7 @@ justify-content: center;
   border: 1px;
 
   display: flex;
+  
   flex-wrap: wrap;
 }
 
