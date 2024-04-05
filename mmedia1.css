@@ -242,6 +242,7 @@ dd{
 
 body {
   background-color: #ff0000;
+  background-attachment: fixed;
 }
 
 @media screen and (min-width: 20px) and (max-width: 600px){
